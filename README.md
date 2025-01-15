@@ -1,7 +1,7 @@
 ## Hi there 👋
-i love tomatos
-my level of english is bigger than avarage american
-i love when code runs without bugs
+- i love tomatos
+- my level of english is bigger than avarage american
+- i love when code runs without bugs
 
 
 <!--
